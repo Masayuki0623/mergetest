@@ -1,4 +1,7 @@
 これは修正前です
 これは修正後です。
-
+Merge Conflict Demo
+Branch: conflict-a
+Edited: 2025-12-24
+Body: A版の変更。同じ行を別ブランチで別内容にします。
 これはブランチ後の修正です2。
